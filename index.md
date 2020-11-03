@@ -10,10 +10,10 @@ layout: home
       <br>
       <br>
 
-  Who I am.
+  I'm interested in designing algorithms and learning policies that enable robots to intelligently grasp objects and manipulate the world around them. Since 2017, I've been pursuing a Ph.D. in computer science at Brown University. I work in the Intelligent Robot Lab, advised by George Konidaris.
   <br>
   <br>
-  Past work.
+  Prior to joining Brown, I completed an M.S. in computer science at Northeastern University, advised by Robert Platt. I received a B.S. in electrical engineering from RPI. I also spent a summer in Robert Howe's Biorobotics Lab at Harvard University, two summers at Locus Robotics, and a summer at Vecna Technologies.
   <br>
   <br>
 

@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-This page is under construction. For more information, please see my CV <a href="{% link /assets/files/corsaro_cv.pdf %}"> here</a>
+This page is under construction. For more information, please see my CV <a href="{% link /assets/files/corsaro_cv.pdf %}"> here</a>.
 
 # Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter
 
