@@ -7,7 +7,7 @@ icra2021YoutubeID: YkFrG4_h6_k
 andreasYoutubeID: y7z-Yn1PQNI
 ---
 
-Additional projects can be seen in my CV <a href="{% link /assets/files/corsaro_cv.pdf %}"> here</a>.
+A more complete list of my projects can be seen in my CV <a href="{% link /assets/files/corsaro_cv.pdf %}"> here</a>.
 
 # Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter
 
