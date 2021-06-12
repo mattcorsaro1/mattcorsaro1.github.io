@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### 2021
 **M. Corsaro**, S. Tellex, G.D. Konidaris. Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter.
-*In Submission*, March 2021.
+*In Submission*, March 2021.<br>[[Paper]](https://arxiv.org/abs/2006.13253)[[Video]](https://youtu.be/YkFrG4_h6_k)
 
 B. Tang, **M. Corsaro**, G. D. Konidaris, S. Nikolaidis, S. Tellex. Learning Collaborative Pushing and
 Grasping Policies in Dense Clutter.
