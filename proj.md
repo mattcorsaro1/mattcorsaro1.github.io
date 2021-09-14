@@ -11,7 +11,7 @@ A more complete list of my projects can be seen in my CV <a href="{% link /asset
 
 # Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter
 
-This paper is under review at IROS 2021.
+This paper will be presented at IROS 2021.
 
 {% include youtubePlayer.html id=page.icra2021YoutubeID %}
 

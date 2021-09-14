@@ -8,7 +8,10 @@ permalink: /publications/
 
 ### 2021
 **M. Corsaro**, S. Tellex, G.D. Konidaris. Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter.
-*In Submission*, March 2021.<br>[[Paper]](https://arxiv.org/abs/2006.13253)[[Video]](https://youtu.be/YkFrG4_h6_k)
+*Proceedings of the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems*, September 2021.<br>[[Paper]](http://irl.cs.brown.edu/pubs/multimodal_grasps.pdf)[[Video]](https://youtu.be/YkFrG4_h6_k)
+
+T. Nguyen, N. Gopalan, R. Patel, M. Corsaro, E. Pavlick, S. Tellex. Affordance-Based Robot Object Retrieval.
+*Autonomous Robots*, August 2021.<br>[[Paper]](https://link.springer.com/article/10.1007/s10514-021-10008-7)
 
 B. Tang, **M. Corsaro**, G. D. Konidaris, S. Nikolaidis, S. Tellex. Learning Collaborative Pushing and
 Grasping Policies in Dense Clutter.
