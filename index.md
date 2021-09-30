@@ -10,10 +10,10 @@ layout: home
       <br>
       <br>
 
-  I'm interested in designing algorithms that enable robots to intelligently grasp objects and manipulate the world around them. Since 2017, I've been pursuing a Ph.D. in computer science at Brown University. I work in the Intelligent Robot Lab, advised by George Konidaris.
+  I'm interested in designing algorithms that enable robots to intelligently grasp objects and manipulate the world around them. Since 2017, I've been pursuing a Ph.D. in computer science at Brown University. I work in the [Intelligent Robot Lab](http://irl.cs.brown.edu), advised by [Professor George Konidaris](http://cs.brown.edu/people/gdk).
   <br>
   <br>
-  During summer 2021, I had the pleasure of interning at Mitsubishi Electric Research Laboratories as a Robot Research Science Intern under the direction of Dr. Radu Corcodel. Check back shortly to see the publication resulting from this work.
+  During summer 2021, I had the pleasure of interning at [Mitsubishi Electric Research Laboratories](https://merl.com) as a Robot Research Science Intern under the direction of [Dr. Radu Corcodel](https://www.merl.com/people/corcodel). Check back shortly to see the publication resulting from this work.
   <br>
   <br>
   Prior to joining Brown, I completed an M.S. in computer science at Northeastern University, advised by Robert Platt. I received a B.S. in electrical engineering from RPI. I also spent a summer in Robert Howe's Biorobotics Lab at Harvard University, two summers at Locus Robotics, and a summer at Vecna Technologies.
