@@ -1,5 +1,5 @@
 ---
-layout: blogpost
+layout: post
 title: Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter
 excerpt_separator: <!--more-->
 author: Presented at IROS 2021
