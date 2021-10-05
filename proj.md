@@ -11,7 +11,7 @@ A more complete list of my projects can be seen in my CV <a href="{% link /asset
 
 # Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter
 
-This paper was presented at IROS 2021.
+I presented [this paper](http://irl.cs.brown.edu/pubs/multimodal_grasps.pdf) at IROS 2021. See the blog post about it [here](https://mattcorsaro1.github.io/2021/09/29/multimodalgrasping.html).
 
 {% include youtubePlayer.html id=page.icra2021YoutubeID %}
 
