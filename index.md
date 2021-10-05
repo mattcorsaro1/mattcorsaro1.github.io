@@ -22,4 +22,10 @@ layout: home
 
  You can download my CV <a href="{% link /assets/files/corsaro_cv.pdf %}"> here</a>.
 
+ <br>
+ <br>
+ Links to blog entries are available below.
+ <br>
+ <br>
+
 </div>
