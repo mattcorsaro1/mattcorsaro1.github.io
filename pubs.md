@@ -6,6 +6,10 @@ permalink: /publications/
 
 [Google Scholar](https://scholar.google.com/citations?user=NZXTTVQAAAAJ)
 
+### 2022
+**M. Corsaro**, S. Tellex, G.D. Konidaris. Learning Task-Oriented Grasps from Limited Labeled Data.
+In Submission to the *6th Conference on Robot Learning*, June 2022.<br>[Pre-print available upon request][[Video]](https://youtu.be/lqzpASJkAVg)
+
 ### 2021
 **M. Corsaro**, S. Tellex, G.D. Konidaris. Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter.
 *Proceedings of the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems*, September 2021.<br>[[Paper]](http://irl.cs.brown.edu/pubs/multimodal_grasps.pdf)[[Video]](https://youtu.be/YkFrG4_h6_k)[[Video Presentation]](https://youtu.be/PxRC5GVmdXE)[[Code]](https://github.com/mattcorsaro1/MultiModalGrasping)[[Blog Post]](https://mattcorsaro1.github.io/2021/09/29/multimodalgrasping.html)
