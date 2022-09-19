@@ -13,7 +13,7 @@ A more complete list of my projects can be seen in my CV <a href="{% link /asset
 
 # Learning Task-Oriented Grasps from Limited Labeled Data
 
-This work is currently under review at CoRL 2022. We propose a deep-learning-based method for detecting task-oriented grasps that leverages a pre-trained general grasp quality network branch to efficiently generalize to a new task within 10 to 20 training examples. A pre-print is available [upon request](mailto:matthew_corsaro@brown.edu).
+This work is currently under review at CoRL 2022. We propose a deep-learning-based method for detecting task-oriented grasps that leverages a pre-trained general grasp quality network branch to efficiently generalize to a new task within 10 to 20 training examples. A pre-print is available [upon request](mailto:cs.m.corsaro@gmail.com).
 
 {% include youtubePlayer.html id=page.corl2022YoutubeID %}
 
