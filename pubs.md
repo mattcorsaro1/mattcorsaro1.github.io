@@ -7,8 +7,11 @@ permalink: /publications/
 [Google Scholar](https://scholar.google.com/citations?user=NZXTTVQAAAAJ)
 
 ### 2022
+**M. Corsaro**. Learning Task-Specific Grasps”. 
+Ph.D. Thesis, Oct. 2022.<br>
+
 **M. Corsaro**, S. Tellex, G.D. Konidaris. Learning Task-Oriented Grasps from Limited Labeled Data.
-In Submission to the *6th Conference on Robot Learning*, June 2022.<br>[Pre-print available upon request][[Video]](https://youtu.be/lqzpASJkAVg)
+Preprint, June 2022.<br>[Preprint available upon request][[Video]](https://youtu.be/lqzpASJkAVg)
 
 ### 2021
 **M. Corsaro**, S. Tellex, G.D. Konidaris. Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter.
