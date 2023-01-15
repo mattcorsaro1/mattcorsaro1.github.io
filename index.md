@@ -6,7 +6,7 @@ layout: home
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 500px; float: left;">  
-      I'm currently on the job market! I'm interested in making an impact in an industrial research lab or company focused on robot manipulation.
+      I am now a Senior Machine Learning Scientist at Soft Robotics, Inc.
       <br>
       <br>
 
