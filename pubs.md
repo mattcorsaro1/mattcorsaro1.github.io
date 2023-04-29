@@ -7,7 +7,7 @@ permalink: /publications/
 [Google Scholar](https://scholar.google.com/citations?user=NZXTTVQAAAAJ)
 
 ### 2022
-**M. Corsaro**. Learning Task-Specific Grasps”. 
+**M. Corsaro**. Learning Task-Specific Grasps. 
 Ph.D. Dissertation, Aug. 2022.<br>[[Paper]](https://mattcorsaro1.github.io/assets/files/corsaro_dissertation.pdf)
 
 **M. Corsaro**, S. Tellex, G.D. Konidaris. Learning Task-Oriented Grasps from Limited Labeled Data.
