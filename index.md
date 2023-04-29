@@ -10,6 +10,10 @@ layout: home
       <br>
       <br>
 
+  My Ph.D. dissertation is available <a href="{% link /assets/files/corsaro_dissertation.pdf %}"> here</a>.
+  <br>
+  <br>
+
   I design algorithms that enable robots to intelligently grasp objects and manipulate the world around them. I successfully defended my Ph.D. thesis, Learning Task-Specific Grasps, in August 2022 at Brown University. I worked in the Intelligent Robot Lab, advised by Professor George Konidaris.
   <br>
   <br>
