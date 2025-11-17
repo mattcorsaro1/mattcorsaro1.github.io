@@ -6,7 +6,7 @@ layout: home
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 500px; float: left;">  
-      I am now a Senior Machine Learning Scientist at Soft Robotics, Inc.
+      I lead the machine learning team at Oxipital AI (formerly Soft Robotics, Inc.), where our advanced AI-powered computer vision systems enable robots to inspect and pick in challenging, high-variability applications in the food space. Check out our <a href="https://www.oxipitalai.com/v-cortx/">V-CORTX platform</a>. 
       <br>
       <br>
 
